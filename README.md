@@ -2,7 +2,7 @@
 
 ## 技术点
 
-### 创建微应用react脚手架(react18 + antd + less)
+### 创建react脚手架(react18 + antd + less)
 
 1 安装脚手架工具  
 命令行输入 npm install -g leonwerth-cli  
