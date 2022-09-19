@@ -5,11 +5,19 @@
 ### 创建react脚手架(react18 + antd + less)
 
 1 安装脚手架工具  
-命令行输入 npm install -g leonwerth-cli  
-2 创建react脚手架  
-命令行输入 leonwerth-cli  
-选择脚手架回车(目前只有react18 + antd + less绑定我的第三方组件和库的脚手架，之后会更新vue脚手架，敬请期待)  
-![image](https://user-images.githubusercontent.com/14903648/190986713-bcf75494-a1a6-4349-b207-eb82818affca.png)
+
+```
+npm install -g leonwerth-cli  
+```
+
+2 创建react脚手架 
+
+```
+leonwerth-cli  
+```
+
+3 脚手架回车(目前只有react18 + antd + less绑定我的第三方组件和库的脚手架，之后会更新vue脚手架，敬请期待)  
+![image](https://user-images.githubusercontent.com/14903648/190987073-94a8e52f-5e8b-457a-9b65-461a4cd5ec24.png)
 
 
 ## 平台
