@@ -9,7 +9,6 @@
 ## 我的平台
 
 1 掘金 https://juejin.cn/user/3034307823951309/posts  
-2 博客 https://buildlove.github.io/  
 
 ## 插件
 
