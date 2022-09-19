@@ -2,7 +2,7 @@
 
 ## 技术点
 
-### 创建react脚手架(react18 + antd + less)
+### 一、创建我的react脚手架(react18 + antd + less)
 
 1 安装脚手架工具  
 
@@ -20,7 +20,7 @@ leonwerth-cli
 ![image](https://user-images.githubusercontent.com/14903648/190987073-94a8e52f-5e8b-457a-9b65-461a4cd5ec24.png)
 
 
-## 平台
+## 我的平台
 
 1 我的掘金 https://juejin.cn/user/3034307823951309/posts  
 2 我的博客 https://buildlove.github.io/  
