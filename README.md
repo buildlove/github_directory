@@ -1,14 +1,15 @@
-我的展示页
+展示页
 
 ## 技术点
 
 1 一个创建前端脚手架的工具 https://github.com/buildlove/leonwerth-cli
+2 一个react18+antd+less的前端框架模板 https://github.com/buildlove/react18-scaffolding
 
 
 ## 我的平台
 
-1 我的掘金 https://juejin.cn/user/3034307823951309/posts  
-2 我的博客 https://buildlove.github.io/  
+1 掘金 https://juejin.cn/user/3034307823951309/posts  
+2 博客 https://buildlove.github.io/  
 
 ## 插件
 
