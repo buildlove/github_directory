@@ -4,6 +4,7 @@
 
 1 创建前端脚手架的工具 https://github.com/buildlove/leonwerth-cli   
 2 react18+antd+less的前端框架模板 https://github.com/buildlove/react18-scaffolding   
+3 vue+tsx的前端框架模板 https://github.com/buildlove/vue3-scaffolding-template  
 3 几年前刚开始学习vue时练习的demo https://github.com/buildlove/vue-practice  
 4 前端微应用基座程序 https://github.com/buildlove/micro-basic  
 5 前后端一体的服务(整理的时候本来想删的，看了下代码完整简单，留着吧) https://github.com/buildlove/node-prop-router
