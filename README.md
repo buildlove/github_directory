@@ -22,13 +22,9 @@
 2 python写的一个自动爬取天气信息并提交github的程序(已经用node重写，没用了) https://github.com/buildlove/beehive  
 3 一个下载程序，有qt可视化客户端界面(完整简单) https://github.com/buildlove/download  
 
-## 可能会public或者目前的一个想法
+## 掘金
 
-1 一个倒数计时打boss的插件(已经写了，但是由于有前端后台服务，所以搭建环境很麻烦，不够完整，有时间改成前端项目)。
-
-## 我的平台
-
-1 掘金 https://juejin.cn/user/3034307823951309/posts 
+1 https://juejin.cn/user/3034307823951309/posts 
 
 ## 插件
 
