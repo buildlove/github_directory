@@ -20,7 +20,7 @@
 
 1 python写的一个通过sougo搜索爬取最新微信公众号的程序(不能用了) https://github.com/buildlove/spiders 
 2 python写的一个自动爬取天气信息并提交github的程序(已经用node重写，没用了) https://github.com/buildlove/beehive  
-3 6年前写的python写的一个下载程序，有qt可视化客户端界面(完整简单) https://github.com/buildlove/download  
+3 一个下载程序，有qt可视化客户端界面(完整简单) https://github.com/buildlove/download  
 
 ## 可能会public或者目前的一个想法
 
