@@ -5,7 +5,7 @@
 1 react18+antd+less的前端框架模板 https://github.com/buildlove/react18-scaffolding  
 2 vue+tsx+less的前端框架模板 https://github.com/buildlove/vue3-scaffolding-template  
 3 前端微应用基座程序 https://github.com/buildlove/micro-basic   
-4 前后端一体的服务(整理的时候本来想删的，看了下代码完整简单，留着吧) https://github.com/buildlove/node-prop-router  
+4 前后端一体的服务 https://github.com/buildlove/node-prop-router  
 5 改造vuepress的文档程序(目前api文档用语雀，第三方组件文档用umi，已没用了) https://github.com/buildlove/vuepress-docs  
 6 刚开始学习vue时练习的demo https://github.com/buildlove/vue-practice  
 
